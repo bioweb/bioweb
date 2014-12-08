@@ -14,4 +14,5 @@ You can use the Gitter channel [bioweb/bioweb](http://gitter.im/bioweb/bioweb) o
 * **[Galaxy](http://galaxyproject.org)** - "An open, web-based platform for data intensive biomedical research."
 * **[JBrowse](http://jbrowse.org)** - "JBrowse is a fast, embeddable genome browser built completely with JavaScript and HTML5, with optional run-once data formatting tools written in Perl."
 * **[Science Toolbox](http://sciencetoolbox.org)** - "An index of open scientific software."
+* **[SequenceServer](http://sequenceserver.com/)** - Custom, local BLAST server. BLAST search made easy!
 * **[Web Apollo](http://apollo.berkeleybop.org)** - "The first instantaneous, collaborative genomic annotation editor available on the Web."
